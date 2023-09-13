@@ -8,5 +8,4 @@
 
 
 Requirement Gathering  for E-commerce website
-
-Ravi Tambade changes
+*What is E commerce 
