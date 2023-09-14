@@ -2,7 +2,7 @@
 ## CDAC(Center for Development of Advance Computing)
 
 # TITLE 
-## Online Assessment Program For CDAC Students
+## Online Assessment Program For C-DAC Course
 
 # TEAM
 
