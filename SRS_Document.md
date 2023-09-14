@@ -29,18 +29,6 @@ candidates who got allotment should pay fees and confirm their admission at cdac
 Faculty/Admin:
 There is seperate interface for cdac admin.Admin will share course schedule with respective dates and booklet on website visible to all.
 
-
-
-
-
-
-
-
-
-
-
-Student:
-Student can register 
 ## NON-FUNCTIONAL
 
 ### RELIABILITY
