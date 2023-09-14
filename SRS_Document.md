@@ -5,12 +5,15 @@
 ## Online Assessment Program For C-DAC Course
 
 # TEAM
-Student, Faculty, Exam cordinator, Invigilator, Course Co-ordinator, CDAC Staff, CDAC Supervisor. 
+
+Student, Faculty, Course cordinator, Supervisor, Centre Authorities, CDAC Staff, Board Of Directors.
+
 
 # OBJECTIVE
-The Online Assessment System is a Web Application where students can give exams.It provides a platform for Student willing to join CDAC.
+The Online Assessment System is a Website where students can give exams. It provides a platform for Student willing to join CDAC Course.
 
 # SCOPE
+Allow Student to take exam and prepare for exam
 
 # DEFINITION
 
