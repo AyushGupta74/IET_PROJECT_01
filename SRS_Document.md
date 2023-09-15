@@ -16,6 +16,12 @@ The Online Assessment System is a Website where students can give exams. It prov
 Allow Student to take exam and prepare for exam
 
 # DEFINITION
+CDAC - Center for Development of Advance Computing
+OAS - Online Assessment System
+PG-DAC - Post Graduate Diploma in Advance Computing
+PG-DBDA - Post Graduate Diploma in Big Data Analytics
+PG-DAC - Post Graduate Diploma in Artificial Intelligence
+
 
 ## FUNCTIONAL REQUIREMENTS
 Any user can visit website and check about CDAC Course Information, Exam Schedule, courses offered by CDAC, Information about centres.
