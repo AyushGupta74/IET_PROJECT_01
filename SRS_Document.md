@@ -34,7 +34,7 @@ There is seperate interface for cdac admin.Admin will share course schedule with
 ### RELIABILITY
 
 ### AVAILABILITY
-THERE WILL BE 27*7 99.99%
+THERE WILL BE 24*7 99.99%
 
 ### MAINTAINABILITY
 
