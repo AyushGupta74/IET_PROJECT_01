@@ -32,6 +32,7 @@ There is seperate interface for cdac admin.Admin will share course schedule with
 ## NON-FUNCTIONAL
 THIS site is generally about the online test of a student which can be a entrance test or Campus exam .There is also a mock test section where student were know how the test is being conducted by our CDAC Online Assessment sites.There will be security which having login authentication and purposly having 3 time of login attempt if user they having accidently out of our site 
 
+### SECURITY
 ### RELIABILITY
 
 ### AVAILABILITY
