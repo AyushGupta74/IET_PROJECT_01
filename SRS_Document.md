@@ -50,6 +50,7 @@ The system will be available 24*7.
 ### EFFICIENCY
 
 ### MODULARITY
+This CDAC Online Assessment site having separate Function like we have Student login and Staff login separatly.There will be sign up and sign in option where user can create there account and login to there account.There will be study material option for preparation of the exam.There will be pratice option where you are solve quizes and mock test and some mcqs.
 
 ### SCALABILITY
 The system will be scalable even if the user base expand exponentially. 
