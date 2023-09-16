@@ -1,1 +1,46 @@
+CREDENTIALS ~CR:
+id 
+name
+password
+email
+phone number
+=================================
 
+CATEGORY:
+student
+faculty
+authority
+=================================
+
+STUDENT:
+~CR
+photo
+sign
+document:aadhar
+=================================
+
+PAYMENT GATEWAY:
+transaction id
+student id
+bank details
+payment reciept
+=================================
+
+EXAMINATION DETAILS:
+course data
+exam schedule: date ,time
+exam centre
+=================================
+
+FACULTY:
+~CR
+=================================
+
+COURSE COARDINATOR:
+centre allocation details
+=================================
+
+CDAC Authority:
+~CR
+seat allocation details
+=================================
