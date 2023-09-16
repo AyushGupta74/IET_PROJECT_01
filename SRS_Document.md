@@ -60,7 +60,7 @@ system must save candidate incomplete profile so that candidate can login resume
 software application implement backup and recovery for retaining stakeholders data business operation data and candidate all saved data.
 
 ### EFFICIENCY
-When the exam will be held the sites has been designed in efficient way so the site will always continue in her flow never get late respose time when the user is login in the site during her exam session
+When the exam will be held the sites has been designed in efficient way so the site will always continue in her flow never get late response time when the user login in the site during the exam session.
 
 ### MODULARITY
 
