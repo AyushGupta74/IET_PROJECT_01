@@ -50,5 +50,10 @@ THERE WILL BE 24*7 99.99%
 ### MODULARITY
 
 ### SCALABILITY
+The system will be scalable even if the user base expand exponentially. 
+It will provide consistent user experience to students and faculties and there will be no breakdown.
+We will use load balancing to ensure there is no latency.
 
 ### SAFETY
+The Online Assessment System will be secure from all types of database attacks, phishing.
+It will be always kept updated with latest anti-virus. Data will be backed up on different servers and will be updated at frequent intervals.
