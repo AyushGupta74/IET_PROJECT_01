@@ -17,6 +17,10 @@ Allow Student to take exam and prepare for exam
 
 # DEFINITION
 OAS : Online Assessment System
+CDAC : Centre for Development in Advance Computing.
+PG-DAC : Post Graduate Diploma in Advance Computing.
+PG-DAI : Post Graduate Diploma in Artificial Intelligence
+PG-DMC : Post Graduate Diploma in Mobile Computing
 
 ## FUNCTIONAL REQUIREMENTS
 Any user can visit website and check about CDAC Course Information, Exam Schedule, courses offered by CDAC, Information about centres.
