@@ -35,10 +35,10 @@ Faculty/Admin:
 There is seperate interface for cdac admin.Admin will share course schedule with respective dates and booklet on website visible to all.
 
 ## NON-FUNCTIONAL
-THIS site is generally about the online test of a student which can be a entrance test or Campus exam .There is also a mock test section where student were know how the test is being conducted by our CDAC Online Assessment sites.There will be security which having login authentication and purposly having 3 time of login attempt if user they having accidently out of our site 
+This site is generally about the online test of a student which can be a entrance test or Campus exam .There is also a mock test section where student will know how the test is being conducted by our CDAC Online Assessment sites.There will be security which having login authentication and purposely having 3 times of login attempt for the user.
 
 ### RELIABILITY
-The system will backup student data on regular basis and recover in short time duration to keep system operational. Continous updates are matained to avoid new problems related to login or website, continous Adminstration is done to keep system operational. During peak hours system will maintain same user experience by managing load balancing.
+The system will backup student data on regular basis and recover in short time duration to keep system operational. Continuous updates are maintained to avoid new problems related to login or website, continuous Adminstration is done to keep system operational. During peak hours system will maintain same user experience by managing load balancing.
 
 ### AVAILABILITY
 The system will be available 24*7.
@@ -62,10 +62,11 @@ software application implement backup and recovery for retaining stakeholders da
 ### EFFICIENCY
 
 ### MODULARITY
+The CDAC Online Assessment site have separate function like Student login and Staff login separatly. There will be sign up and sign in option where user can create their account and login to their account.There will be study material option for preparation of the exam. There will be practice option where you are solve quizes and mock test and some MCQs.
 
 ### SCALABILITY
 The system will be scalable even if the user base expand exponentially. 
-It will provide consistent user experience to students and faculties and there will be no breakdown.
+It will provide consistent user experience to students and faculties hence there will be likely no breakdown.
 We will use load balancing to ensure there is no latency.
 
 ### SAFETY
