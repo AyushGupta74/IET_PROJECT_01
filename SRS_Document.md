@@ -44,8 +44,16 @@ The system will be available 24*7.
 ### PORTABILITY
 
 ### ACCESSIBILITY
+Only registered candidate after authentication will use application and see their profile. 
+Application should show how many cdandidates registered on the website and it will be visible to admin. Admin module should see different graphs of candidates login time and sessions.
+Admin can reject registered candidates application.
+
 
 ### DURABILITY
+System will retain registered candidate login session for five minutes after inactivity.
+system will maintain login history and his recent modication/updates.
+system must save candidate incomplete profile so that candidate can login resume profile .
+software application implement backup and recovery for retaining stakeholders data business operation data and candidate all saved data.
 
 ### EFFICIENCY
 
