@@ -61,6 +61,7 @@ system must save candidate incomplete profile so that candidate can login resume
 software application implement backup and recovery for retaining stakeholders data business operation data and candidate all saved data.
 
 ### EFFICIENCY
+When the exam will be held the sites has been designed in efficient way so the site will always continue in her flow never get late response time when the user login in the site during the exam session.
 
 ### MODULARITY
 The CDAC Online Assessment site have separate function like Student login and Staff login separatly. There will be sign up and sign in option where user can create their account and login to their account.There will be study material option for preparation of the exam. There will be practice option where you are solve quizes and mock test and some MCQs.
