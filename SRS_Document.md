@@ -33,9 +33,10 @@ There is seperate interface for cdac admin.Admin will share course schedule with
 THIS site is generally about the online test of a student which can be a entrance test or Campus exam .There is also a mock test section where student were know how the test is being conducted by our CDAC Online Assessment sites.There will be security which having login authentication and purposly having 3 time of login attempt if user they having accidently out of our site 
 
 ### RELIABILITY
+The system will backup student data on regular basis and recover in short time duration to keep system operational. Continous updates are matained to avoid new problems related to login or website, continous Adminstration is done to keep system operational. During peak hours system will maintain same user experience by managing load balancing.
 
 ### AVAILABILITY
-THERE WILL BE 24*7 99.99%
+The system will be available 24*7.
 
 ### MAINTAINABILITY
 
