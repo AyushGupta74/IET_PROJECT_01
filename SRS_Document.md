@@ -45,7 +45,8 @@ The system will backup student data on regular basis and recover in short time d
 The system will be available 24*7.
 
 ### MAINTAINABILITY
-
+The web application can be maintained all the time.
+The system can be updated and maintained by certain period of time regularly.
 ### PORTABILITY
 
 ### ACCESSIBILITY
