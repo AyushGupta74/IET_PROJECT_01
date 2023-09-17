@@ -48,7 +48,7 @@ Allow Student to take enterance exam and prepare for C-DAC Courses.
 - There is seperate interface for cdac admin.
 - Admin will share course schedule with respective dates and booklet on website visible to all.
 
-## NON-FUNCTIONAL
+## NON-FUNCTIONAL REQUIREMENTS
 - This site is generally about the online test of a student which can be a entrance test or Campus exam.
 - There is also a mock test section where student will know how the test is being conducted by our CDAC Online Assessment sites.
 - There will be security which having login authentication and purposely having 3 times of login attempt for the user.
