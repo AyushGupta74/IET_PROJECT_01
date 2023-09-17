@@ -91,6 +91,7 @@ Allow Student to take enterance exam and prepare for C-DAC Courses.
 ### EFFICIENCY
 - Our sites has been designed in an efficient way and will always be in a working state.
 - The response time is very high for the user login page during the exam session.
+- Our efficient system will avoid the crashing of website after result declaration.
 
 ### MODULARITY
 - The CDAC Online Assessment site have separate function like Student login and Staff login separatly.
