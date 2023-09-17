@@ -47,9 +47,10 @@ The system will be available 24*7.
 ### MAINTAINABILITY
 
 ### PORTABILITY
-It is a key feature for proposed system.
-It allow registered user to access the web application from their remote area.
-Web application can be implemented on any systems as well.
+- It is a key feature for proposed system.
+- It allow registered user to access the web application from their remote area.
+- Web application can be implemented on any systems as well.
+
 ### ACCESSIBILITY
 Only registered candidate after authentication will use application and see their profile. 
 Application should show how many cdandidates registered on the website and it will be visible to admin. Admin module should see different graphs of candidates login time and sessions.
