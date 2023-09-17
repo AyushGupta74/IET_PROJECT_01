@@ -53,6 +53,9 @@ The system will be available 24*7.
 The web application can be maintained all the time.
 The system can be updated and maintained by certain period of time regularly.
 ### PORTABILITY
+- It is a key feature for proposed system.
+- It allow registered user to access the web application from their remote area.
+- Web application can be implemented on any systems as well.
 
 ### ACCESSIBILITY
 Only registered candidate after authentication will use application and see their profile. 
