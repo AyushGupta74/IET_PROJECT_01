@@ -24,22 +24,27 @@ PG-DAI : Post Graduate Diploma in Artificial Intelligence. <br>
 PG-DMC : Post Graduate Diploma in Mobile Computing. <br>
 
 ## FUNCTIONAL REQUIREMENTS
-Any user can visit website and check about CDAC Course Information, Exam Schedule, courses offered by CDAC, Information about centres.
-And they can contact CDAC centres for further information. 
-Student will be able to register on CDAC Website. They can enroll in exams. Candidates can enroll for courses like PG-DAC, PG-DBDA, PG-DAI, PG-DMC,etc.
-Registered candidate will download admit card at cdac website and appear for exam at center.
-Candidate who appear for exam will see there result on website after 15 days .
-Candidate who qualify  exam will get get notificaton to apply for seat allocation process .
-candidates who got allotment should pay fees and confirm their admission at cdac.
+- Any user can visit website and check about CDAC Course Information, Exam Schedule, courses offered by CDAC, Information about centres.
+- And they can contact CDAC centres for further information. 
+- Student will be able to register on CDAC Website. They can enroll in exams. Candidates can enroll for courses like PG-DAC, PG-DBDA, PG-DAI, PG-DMC,etc.
+- Registered candidate will download admit card at cdac website and appear for exam at center.
+- Candidate who appear for exam will see there result on website after 15 days .
+- Candidate who qualify  exam will get get notificaton to apply for seat allocation process .
+- candidates who got allotment should pay fees and confirm their admission at cdac.
 
 Faculty/Admin:
-There is seperate interface for cdac admin.Admin will share course schedule with respective dates and booklet on website visible to all.
+- There is seperate interface for cdac admin.Admin will share course schedule with respective dates and booklet on website visible to all.
 
 ## NON-FUNCTIONAL
-This site is generally about the online test of a student which can be a entrance test or Campus exam .There is also a mock test section where student will know how the test is being conducted by our CDAC Online Assessment sites.There will be security which having login authentication and purposely having 3 times of login attempt for the user.
+- This site is generally about the online test of a student which can be a entrance test or Campus exam.
+- There is also a mock test section where student will know how the test is being conducted by our CDAC Online Assessment sites.
+- There will be security which having login authentication and purposely having 3 times of login attempt for the user.
 
 ### RELIABILITY
-The system will backup student data on regular basis and recover in short time duration to keep system operational. Continuous updates are maintained to avoid new problems related to login or website, continuous Adminstration is done to keep system operational. During peak hours system will maintain same user experience by managing load balancing.
+- The system will backup student data on regular basis and recover in short time duration to keep system operational.
+- Continuous updates are maintained to avoid new problems related to login or website.
+- Continuous Adminstration is done to keep system operational.
+- During peak hours, system will maintain same user experience by managing load balancing.
 
 ### AVAILABILITY
 The system will be available 24*7.
@@ -55,9 +60,8 @@ Admin can reject registered candidates application.
 
 ### SECURITY
 Online  Assessment System should provide the necessary authentication process to secure access.
-All system user are required to login to the system should be authenticated through their credentials.
-If exam session is going on no user can allow to close the window.
-
+All system user are authenticated through their credentials for logging in to the system.
+During exam session no user is allowed to close the window.
 
 ### DURABILITY
 System will retain registered candidate login session for five minutes after inactivity.
@@ -66,8 +70,7 @@ system must save candidate incomplete profile so that candidate can login resume
 software application implement backup and recovery for retaining stakeholders data business operation data and candidate all saved data.
 
 ### EFFICIENCY
-When the exam will be held the sites h.
-If the as been designed in efficient way so the site will always continue in her flow never get late response time when the user login in the site during the exam session.
+Our sites has been designed in an efficient way that will always work in flow and never get late response time when the user login in the site during the exam session.
 
 ### MODULARITY
 The CDAC Online Assessment site have separate function like Student login and Staff login separatly. There will be sign up and sign in option where user can create their account and login to their account.There will be study material option for preparation of the exam. There will be practice option where you are solve quizes and mock test and some MCQs.
