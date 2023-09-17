@@ -14,16 +14,31 @@ The Online Assessment System is a Website where students can give exams for thei
 Allow Student to take enterance exam and prepare for C-DAC Courses.
 
 # DEFINITION
-- OAS : Online Assessment System. <br>
-- CDAC : Centre for Development in Advance Computing. <br>
-- PG-DAC : Post Graduate Diploma in Advance Computing. <br>
-- PG-DAI : Post Graduate Diploma in Artificial Intelligence. <br>
-- PG-DMC : Post Graduate Diploma in Mobile Computing. <br>
+- OAS : Online Assessment System.
+- CDAC : Centre for Development in Advance Computing.
+- PG-DAC : Post Graduate Diploma in Advance Computing.
+- PG-DMC : Post Graduate Diploma in Mobile Computing.
+- PG-DASSD : Post Graduate Diploma in Advanced Secure Software Development.
+- PG-DMC : Post Graduate Diploma in Mobile Computing.
+- PG-DVLSI : Post Graduate Diploma in Mobile Computing.
+- PG-DESD : Post Graduate Diploma in Embedded Systems Design.
+- PG-IOT : Post Graduate Diploma in Internet of Things.
+- PG-DRAT : Post Graduate Diploma in Robotics & Allied Technologies.
+- PG-DUASP : Post Graduate Diploma in Unmanned Aircraft System Programming
+- PG-DAI : Post Graduate Diploma in Artificial Intelligence.
+- PG-DBDA : Post Graduate Diploma in Big Data Analytics.
+- PG-HPCAP : Post Graduate Diploma in HPC Application Programming.
+- PG-HPCSA : Post Graduate Diploma in HPC System Administration
+- PG-DITISS : Post Graduate Diploma in IT Infrastructure, Systems and Security.
+- PG-DCSF : Post Graduate Diploma in Cyber Security & Forensics.
+- PG-DFBD : Post Graduate Diploma in FinTech & Blockchain Development.
+- PG-DGI : Post Graduate Diploma In Geoinformatics.
 
 ## FUNCTIONAL REQUIREMENTS
 - Any user can visit website and check about CDAC Course Information, Exam Schedule, courses offered by CDAC, Information about centres.
 - And they can contact CDAC centres for further information. 
-- Student will be able to register on CDAC Website. They can enroll in exams. Candidates can enroll for courses like PG-DAC, PG-DBDA, PG-DAI, PG-DMC,etc.
+- Student will be able to register on CDAC Website. They can enroll in exams.
+- Candidates can enroll for courses like PG-DAC, PG-DBDA, PG-DAI, PG-DMC,etc.
 - Registered candidate will download admit card at cdac website and appear for exam at center.
 - Candidate who appear for exam will see there result on website after 15 days .
 - Candidate who qualify  exam will get get notificaton to apply for seat allocation process .
