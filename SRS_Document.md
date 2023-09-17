@@ -53,6 +53,11 @@ Only registered candidate after authentication will use application and see thei
 Application should show how many cdandidates registered on the website and it will be visible to admin. Admin module should see different graphs of candidates login time and sessions.
 Admin can reject registered candidates application.
 
+### SECURITY
+Online  Assessment System should provide the necessary authentication process to secure access.
+All system user are required to login to the system should be authenticated through their credentials.
+If exam session is going on no user can allow to close the window.
+
 
 ### DURABILITY
 System will retain registered candidate login session for five minutes after inactivity.
@@ -61,7 +66,8 @@ system must save candidate incomplete profile so that candidate can login resume
 software application implement backup and recovery for retaining stakeholders data business operation data and candidate all saved data.
 
 ### EFFICIENCY
-When the exam will be held the sites has been designed in efficient way so the site will always continue in her flow never get late response time when the user login in the site during the exam session.
+When the exam will be held the sites h.
+If the as been designed in efficient way so the site will always continue in her flow never get late response time when the user login in the site during the exam session.
 
 ### MODULARITY
 The CDAC Online Assessment site have separate function like Student login and Staff login separatly. There will be sign up and sign in option where user can create their account and login to their account.There will be study material option for preparation of the exam. There will be practice option where you are solve quizes and mock test and some MCQs.
